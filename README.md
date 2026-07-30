@@ -23,7 +23,7 @@ Project Genesis is the official source of truth for the creation of **Uwebbz Lea
 
 ## Mission
 
-Transform knowledge into opportunity through AI-powered education.
+Transform knowledge into opportunities through AI-powered education.
 
 ## Vision
 
@@ -36,7 +36,6 @@ Idea
 → Roadmap
 → Course
 → Google Drive
-→ School
 → Student
 → Certificate
 → Book
@@ -44,6 +43,33 @@ Idea
 → Blog
 → GitHub Project
 ```
+
+## Architecture Record
+
+The complete record of the approved vision and architecture milestones is available here:
+
+- [Project Genesis 0.1–1.0 Architecture Record](docs/02-architecture/PROJECT-GENESIS-0.1-TO-1.0.md)
+
+## Completed Milestones
+
+| Milestone | Status |
+|---|---|
+| Genesis 0.1 — Vision and Mission | Complete |
+| Genesis 0.2 — System Architecture | Complete |
+| Genesis 0.3 — Database Architecture | Complete |
+| Genesis 0.4 — Enterprise API Architecture | Complete |
+| Genesis 0.5 — UI/UX Design System | Complete |
+| Genesis 0.6 — AI Engine Architecture | Complete |
+| Genesis 0.7 — Google Drive Content Architecture | Complete |
+| Genesis 0.8 — Workflow and Automation Engine | Complete |
+| Genesis 0.9 — Security and Multi-Tenancy | Complete |
+| Genesis 1.0 — MVP Product Blueprint | Complete |
+
+## Current Phase
+
+**Genesis 1.1 — Repository Foundation and Engineering Setup**
+
+Genesis 1.1 begins the executable engineering foundation for Uwebbz LearningOS, including the product repository, branch strategy, Next.js application, Supabase environments, development standards, CI validation, issue templates, project management, and the first working build.
 
 ## Repository Structure
 
@@ -71,10 +97,6 @@ research/
 prototypes/
 archive/
 ```
-
-## Current Phase
-
-**Genesis 0.2 — System Architecture**
 
 ## Engineering Principles
 
