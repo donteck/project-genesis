@@ -132,6 +132,10 @@ archive/
 9. Document major decisions
 10. Nothing important lives only in conversation
 
+## Engineering Philosophy
+
+The [LearningOS Development Philosophy](docs/LearningOS_Development_Philosophy.md) defines how engineering excellence, product systems, premium experience, and lasting brand identity guide the platform's long-term development.
+
 ## North Star Question
 
 > Does this help someone learn better?
