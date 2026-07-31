@@ -27,12 +27,15 @@ Transform knowledge into opportunities through AI-powered education.
 
 ## Vision
 
-Build an interconnected education ecosystem where one idea can become a roadmap, course, workbook, assessment, certificate, book, video, blog, and GitHub project.
+Build an interconnected education ecosystem where one idea can become a roadmap, course, workbook, assessment, certificate, book, video, blog, software product, and GitHub project.
 
 ## Core Product Flow
 
 ```text
 Idea
+→ Research
+→ Product Vision
+→ Architecture
 → Roadmap
 → Course
 → Google Drive
@@ -41,35 +44,31 @@ Idea
 → Book
 → Video
 → Blog
+→ Software Product
 → GitHub Project
 ```
 
-## Architecture Record
+## Architecture Navigation
 
-The complete record of the approved vision and architecture milestones is available here:
-
+- [Genesis Master Architecture Index](indexes/GENESIS-MASTER-INDEX.md)
+- [Genesis Progress and Documentation Tracker](indexes/GENESIS-PROGRESS-TRACKER.md)
 - [Project Genesis 0.1–1.0 Architecture Record](docs/02-architecture/PROJECT-GENESIS-0.1-TO-1.0.md)
 
-## Completed Milestones
+## Fully Documented Architecture in This Repository
 
-| Milestone | Status |
-|---|---|
-| Genesis 0.1 — Vision and Mission | Complete |
-| Genesis 0.2 — System Architecture | Complete |
-| Genesis 0.3 — Database Architecture | Complete |
-| Genesis 0.4 — Enterprise API Architecture | Complete |
-| Genesis 0.5 — UI/UX Design System | Complete |
-| Genesis 0.6 — AI Engine Architecture | Complete |
-| Genesis 0.7 — Google Drive Content Architecture | Complete |
-| Genesis 0.8 — Workflow and Automation Engine | Complete |
-| Genesis 0.9 — Security and Multi-Tenancy | Complete |
-| Genesis 1.0 — MVP Product Blueprint | Complete |
+| Range | Focus | Status |
+|---|---|---|
+| Genesis 0.1–1.0 | Foundation architecture and MVP blueprint | Consolidated |
+| Genesis 8.7–8.9 | Institutional intelligence, ecosystem, and global network | Complete |
+| Genesis 9.0–9.9 | Digital economy and cognitive enterprise | Complete |
+
+Earlier approved milestones between Genesis 1.1 and 8.6 are tracked as a documentation migration backlog until their detailed source records are restored to this repository. The tracker deliberately separates approved milestone history from files that have actually been committed.
 
 ## Current Phase
 
-**Genesis 1.1 — Repository Foundation and Engineering Setup**
+**Genesis 10.0 — Universal Learning Intelligence, Global Skills Graph, Human Digital Twin & Lifelong Knowledge Network Framework**
 
-Genesis 1.1 begins the executable engineering foundation for Uwebbz LearningOS, including the product repository, branch strategy, Next.js application, Supabase environments, development standards, CI validation, issue templates, project management, and the first working build.
+Genesis 10.0 begins the Human Intelligence Era, centering LearningOS on lifelong learner identity, portable skills, verified competencies, adaptive development, career intelligence, and human-governed personal AI.
 
 ## Repository Structure
 
@@ -86,7 +85,24 @@ docs/
 ├── 08-api/
 ├── 09-roadmaps/
 ├── 10-meetings/
-└── 11-decisions/
+├── 11-decisions/
+├── 27-institutional-intelligence/
+├── 28-ecosystem/
+├── 29-global-network/
+├── 30-creator-economy/
+├── 31-content-platform/
+├── 32-media-platform/
+├── 33-growth-platform/
+├── 34-revenue-intelligence/
+├── 35-ai-operating-system/
+├── 36-enterprise-automation/
+├── 37-data-intelligence/
+├── 38-security/
+└── 39-cognitive-enterprise/
+
+indexes/
+├── GENESIS-MASTER-INDEX.md
+└── GENESIS-PROGRESS-TRACKER.md
 
 assets/
 ├── logos/
@@ -98,14 +114,19 @@ prototypes/
 archive/
 ```
 
+## Repository Responsibilities
+
+- **Project Genesis:** vision, architecture, roadmap, governance, major decisions, and milestone records.
+- **Uwebbz LearningOS:** executable code, tests, deployment configuration, and product implementation.
+
 ## Engineering Principles
 
 1. AI first
-2. Human approval before publishing
+2. Human approval before publishing or high-impact action
 3. Everything reusable
 4. Modular architecture
 5. World-class user experience
-6. Security by design
+6. Security and privacy by design
 7. Original knowledge and intellectual property
 8. Build for scale
 9. Document major decisions
