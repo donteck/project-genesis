@@ -138,11 +138,12 @@ The [LearningOS Development Philosophy](docs/LearningOS_Development_Philosophy.m
 
 ## Project Constitutions
 
-Project Genesis is governed by three permanent constitutions:
+Project Genesis is governed by four permanent constitutions:
 
 1. [Engineering Philosophy](docs/LearningOS_Development_Philosophy.md)
 2. [Genesis Evolution Manifesto](docs/GENESIS_EVOLUTION_MANIFESTO.md)
 3. **LearningOS Design System** — Reserved for future development
+4. [Project Genesis Framework](docs/PROJECT_GENESIS_FRAMEWORK.md)
 
 ## North Star Question
 
