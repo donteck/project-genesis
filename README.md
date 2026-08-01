@@ -136,6 +136,14 @@ archive/
 
 The [LearningOS Development Philosophy](docs/LearningOS_Development_Philosophy.md) defines how engineering excellence, product systems, premium experience, and lasting brand identity guide the platform's long-term development.
 
+## Project Constitutions
+
+Project Genesis is governed by three permanent constitutions:
+
+1. [Engineering Philosophy](docs/LearningOS_Development_Philosophy.md)
+2. [Genesis Evolution Manifesto](docs/GENESIS_EVOLUTION_MANIFESTO.md)
+3. **LearningOS Design System** — Reserved for future development
+
 ## North Star Question
 
 > Does this help someone learn better?
