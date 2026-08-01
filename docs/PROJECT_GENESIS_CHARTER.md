@@ -198,12 +198,13 @@ Great developers matter, but lasting excellence depends on the process that enab
 
 Project Genesis follows this governance order:
 
-1. Project Genesis Charter
-2. Project Genesis Constitutions
-3. Blueprints
-4. Standards
-5. Engineering
-6. Products
-7. Releases
+1. Vision
+2. Project Genesis Charter
+3. Project Genesis Constitutions
+4. Blueprints
+5. Standards
+6. Engineering
+7. Products
+8. Releases
 
-The Charter defines why Project Genesis exists. Every constitution, blueprint, standard, implementation, product, and release should remain aligned with that purpose.
+The Vision defines what the ecosystem is ultimately trying to build. The Charter defines why Project Genesis exists. Every constitution, blueprint, standard, implementation, product, and release should remain aligned with both.

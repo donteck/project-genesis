@@ -132,6 +132,10 @@ archive/
 9. Document major decisions
 10. Nothing important lives only in conversation
 
+# Vision
+
+The [Project Genesis Vision](docs/PROJECT_GENESIS_VISION.md) defines what the ecosystem is ultimately trying to build and guides every future blueprint, constitution, and engineering decision.
+
 # Project Governance
 
 The [Project Genesis Charter](docs/PROJECT_GENESIS_CHARTER.md) is the highest-level governing document of Project Genesis. Every future project follows this Charter and the governing documents beneath it:
