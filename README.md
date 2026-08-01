@@ -136,6 +136,19 @@ archive/
 
 The [Project Genesis Vision](docs/PROJECT_GENESIS_VISION.md) defines what the ecosystem is ultimately trying to build and guides every future blueprint, constitution, and engineering decision.
 
+# Knowledge Base
+
+The Project Genesis knowledge base preserves the purpose, governance, architecture, standards, and insights that shape the ecosystem:
+
+- [Vision](docs/PROJECT_GENESIS_VISION.md)
+- [Charter](docs/PROJECT_GENESIS_CHARTER.md)
+- [Constitutions](#project-constitutions)
+- [Blueprints](indexes/GENESIS-MASTER-INDEX.md)
+- [Discoveries](docs/discoveries/README.md)
+- [Standards](#engineering-principles)
+
+Discoveries preserve the reasoning that shaped the evolution of Project Genesis. They record fundamental realizations after they occur so future contributors can understand why the mission, architecture, or product direction changed.
+
 # Project Governance
 
 The [Project Genesis Charter](docs/PROJECT_GENESIS_CHARTER.md) is the highest-level governing document of Project Genesis. Every future project follows this Charter and the governing documents beneath it:
