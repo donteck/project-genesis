@@ -149,6 +149,16 @@ The Project Genesis knowledge base preserves the purpose, governance, architectu
 
 Discoveries preserve the reasoning that shaped the evolution of Project Genesis. They record fundamental realizations after they occur so future contributors can understand why the mission, architecture, or product direction changed.
 
+# Knowledge Library
+
+Important discoveries, reflections, and architectural conversations are preserved for future generations of builders:
+
+- [Knowledge Library](docs/knowledge/README.md)
+- [Blueprint Library](docs/blueprints/README.md)
+- [Discovery Library](docs/discoveries/README.md)
+
+The Knowledge Library protects the context behind major transitions so the next generation can understand not only what was built, but why the project evolved.
+
 # Project Governance
 
 The [Project Genesis Charter](docs/PROJECT_GENESIS_CHARTER.md) is the highest-level governing document of Project Genesis. Every future project follows this Charter and the governing documents beneath it:
