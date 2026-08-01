@@ -132,6 +132,17 @@ archive/
 9. Document major decisions
 10. Nothing important lives only in conversation
 
+# Project Governance
+
+The [Project Genesis Charter](docs/PROJECT_GENESIS_CHARTER.md) is the highest-level governing document of Project Genesis. Every future project follows this Charter and the governing documents beneath it:
+
+- [Project Genesis Charter](docs/PROJECT_GENESIS_CHARTER.md)
+- [Engineering Philosophy](docs/LearningOS_Development_Philosophy.md)
+- [Genesis Evolution Manifesto](docs/GENESIS_EVOLUTION_MANIFESTO.md)
+- [Project Genesis Framework](docs/PROJECT_GENESIS_FRAMEWORK.md)
+- **Think Twice, Build Once Principle** — Governing document pending
+- **LearningOS Design System** — Reserved for future development
+
 ## Engineering Philosophy
 
 The [LearningOS Development Philosophy](docs/LearningOS_Development_Philosophy.md) defines how engineering excellence, product systems, premium experience, and lasting brand identity guide the platform's long-term development.
