@@ -156,6 +156,7 @@ Important discoveries, reflections, and architectural conversations are preserve
 - [Knowledge Library](docs/knowledge/README.md)
 - [Blueprint Library](docs/blueprints/README.md)
 - [Discovery Library](docs/discoveries/README.md)
+- [Discovery 003 — The Human Transformation Revelation](docs/discoveries/003-the-human-transformation-revelation.md)
 
 The Knowledge Library protects the context behind major transitions so the next generation can understand not only what was built, but why the project evolved.
 
