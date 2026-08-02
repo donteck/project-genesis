@@ -31,6 +31,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 025 | [The Skills Graph & Knowledge Engine](025-the-skills-graph-and-knowledge-engine.md) | August 2, 2026 | Canonical | Define the complete skills graph, competency model, dependency mapping, career mapping, and AI reasoning architecture. |
 | 026 | [Learning Analytics & Intelligence Engine](026-learning-analytics-and-intelligence-engine.md) | August 2, 2026 | Canonical | Define the complete analytics, intelligence, predictive learning, dashboard, and continuous improvement architecture for LearningOS. |
 | 027 | [The API & Integration Architecture](027-api-and-integration-architecture.md) | August 2, 2026 | Canonical | Define the complete API strategy, integration architecture, event system, webhook model, SDK strategy, and external ecosystem for LearningOS. |
+| 028 | [Security, Privacy & Trust Architecture](028-security-privacy-and-trust-architecture.md) | August 2, 2026 | Canonical | Define the complete security, privacy, trust, governance, AI ethics, and resilience architecture for LearningOS. |
 
 ## Current Indexes
 
