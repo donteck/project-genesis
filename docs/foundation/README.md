@@ -9,6 +9,7 @@ The Foundation is distinct from the numbered [Foundations Registry](../foundatio
 - [Project Genesis Manifesto](../manifesto/README.md) — declares the enduring beliefs, commitments, and promises of Project Genesis.
 - [The Genesis Covenant](THE_GENESIS_COVENANT.md) — establishes the permanent moral and professional promise made to future builders.
 - [The Genesis Declaration](THE_GENESIS_DECLARATION.md) — establishes Project Genesis as an Engineering School of Thought centered on purposeful software architecture, knowledge stewardship, AI-native engineering, and lifelong learning.
+- [The Constitution of Builders](THE_CONSTITUTION_OF_BUILDERS.md) — establishes the governing principles, responsibilities, and ethical commitments expected of every contributor.
 
 Future documents may be referenced here only when their authority and relationship to the governing hierarchy have been explicitly established.
 

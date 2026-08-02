@@ -34,6 +34,7 @@ Each Discovery receives:
 | 005 | [The School of Thought Revelation](005-the-school-of-thought-revelation.md) | August 2, 2026 | Project Genesis has evolved beyond a software engineering framework into a school of thought. | Discoveries 001–004 | Engineering Philosophy; Genesis Evolution Manifesto; Project Genesis Framework | Project Genesis 0.1–1.0 Architecture Record; future Project Genesis and Knowledge Operating System blueprints | Project Genesis must preserve a durable philosophy for transforming knowledge into systems that transform people. |
 | 006 | [The Knowledge Multiplication Principle](006-the-knowledge-multiplication-principle.md) | August 2, 2026 | Every important Project Genesis idea should be designed to exist in multiple complementary forms. | Discoveries 001, 003, 004, and 005 | Engineering Philosophy; Genesis Evolution Manifesto; Project Genesis Framework | Canonical Blueprints 005, 023, and 030 | Project Genesis must transform important knowledge into forms through which different people can discover, understand, practice, apply, teach, and extend it. |
 | 007 | [The Knowledge Pyramid Principle](007-the-knowledge-pyramid-principle.md) | August 2, 2026 | Human learning develops through Information, Knowledge, Principles, and Wisdom. | Discoveries 001, 003, 005, and 006 | Engineering Philosophy; Genesis Evolution Manifesto; Project Genesis Framework | Canonical Blueprints 001, 018, 023, and 025 | Project Genesis must guide people beyond facts toward understanding, principled decisions, and responsible judgment. |
+| 008 | [The Builder's Principle](008-the-builders-principle.md) | August 2, 2026 | A builder is defined by responsibility for what creation enables, affects, and leaves behind—not by production alone. | Discoveries 003–007 | The Genesis Covenant; The Genesis Declaration; The Constitution of Builders | Canonical Blueprints 006, 007, 008, and 010 | Every contributor must be treated as a steward of purpose, truth, knowledge, people, systems, and future opportunity. |
 
 > **Registry note:** Discovery 002 is referenced by the approved Discovery 003 relationship but does not yet have a canonical document in this repository. Its number remains reserved.
 
@@ -48,3 +49,5 @@ Discovery 005 is the capstone of the first Project Genesis Discovery series.
 Discovery 006 establishes the multiplication principle through which the knowledge preserved by that series can reach people across media, products, learning experiences, and generations.
 
 Discovery 007 establishes the four-level learning model through which those expressions guide people from Information to Knowledge to Principles to Wisdom.
+
+Discovery 008 establishes the Builder's Principle underlying the governing duties of the Constitution of Builders.

@@ -168,7 +168,7 @@ The [Project Genesis Vision](docs/PROJECT_GENESIS_VISION.md) defines what the ec
 
 # Foundation
 
-The [Project Genesis Foundation](docs/foundation/README.md) contains the highest-level governing documents of Project Genesis. [The Genesis Covenant](docs/foundation/THE_GENESIS_COVENANT.md) establishes the permanent promise made to future builders, while [The Genesis Declaration](docs/foundation/THE_GENESIS_DECLARATION.md) establishes Project Genesis as an Engineering School of Thought.
+The [Project Genesis Foundation](docs/foundation/README.md) contains the highest-level governing documents of Project Genesis. [The Genesis Covenant](docs/foundation/THE_GENESIS_COVENANT.md) establishes the permanent promise made to future builders, [The Genesis Declaration](docs/foundation/THE_GENESIS_DECLARATION.md) establishes Project Genesis as an Engineering School of Thought, and [The Constitution of Builders](docs/foundation/THE_CONSTITUTION_OF_BUILDERS.md) governs contributor responsibility and conduct.
 
 # Project Genesis Library
 
@@ -273,6 +273,7 @@ Important discoveries, reflections, and architectural conversations are preserve
 - [Discovery 005 — The School of Thought Revelation](docs/discoveries/005-the-school-of-thought-revelation.md)
 - [Discovery 006 — The Knowledge Multiplication Principle](docs/discoveries/006-the-knowledge-multiplication-principle.md)
 - [Discovery 007 — The Knowledge Pyramid Principle](docs/discoveries/007-the-knowledge-pyramid-principle.md)
+- [Discovery 008 — The Builder's Principle](docs/discoveries/008-the-builders-principle.md)
 
 The Knowledge Library protects the context behind major transitions so the next generation can understand not only what was built, but why the project evolved.
 
@@ -281,6 +282,7 @@ The Knowledge Library protects the context behind major transitions so the next 
 The [Project Genesis Foundation](docs/foundation/README.md) preserves the highest-level governing hierarchy. Every future project follows the Vision, Manifesto, [Genesis Covenant](docs/foundation/THE_GENESIS_COVENANT.md), [Genesis Declaration](docs/foundation/THE_GENESIS_DECLARATION.md), Charter, and governing documents beneath them:
 
 - [Project Genesis Charter](docs/PROJECT_GENESIS_CHARTER.md)
+- [The Constitution of Builders](docs/foundation/THE_CONSTITUTION_OF_BUILDERS.md)
 - [Engineering Philosophy](docs/LearningOS_Development_Philosophy.md)
 - [Genesis Evolution Manifesto](docs/GENESIS_EVOLUTION_MANIFESTO.md)
 - [Project Genesis Framework](docs/PROJECT_GENESIS_FRAMEWORK.md)
@@ -293,12 +295,13 @@ The [LearningOS Development Philosophy](docs/LearningOS_Development_Philosophy.m
 
 ## Project Constitutions
 
-Project Genesis is governed by four permanent constitutions:
+Project Genesis is governed by the foundational Constitution of Builders and four framework constitutions:
 
-1. [Engineering Philosophy](docs/LearningOS_Development_Philosophy.md)
-2. [Genesis Evolution Manifesto](docs/GENESIS_EVOLUTION_MANIFESTO.md)
-3. **LearningOS Design System** — Reserved for future development
-4. [Project Genesis Framework](docs/PROJECT_GENESIS_FRAMEWORK.md)
+1. [The Constitution of Builders](docs/foundation/THE_CONSTITUTION_OF_BUILDERS.md)
+2. [Engineering Philosophy](docs/LearningOS_Development_Philosophy.md)
+3. [Genesis Evolution Manifesto](docs/GENESIS_EVOLUTION_MANIFESTO.md)
+4. **LearningOS Design System** — Reserved for future development
+5. [Project Genesis Framework](docs/PROJECT_GENESIS_FRAMEWORK.md)
 
 ## North Star Question
 
