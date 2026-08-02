@@ -12,6 +12,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 005 | [The Legacy of Humanity](005-the-legacy-of-humanity.md) | August 2, 2026 | Canonical | Define the responsibility to preserve, improve, and transmit knowledge for future generations. |
 | 006 | [The Infinite Builder](006-the-infinite-builder.md) | August 2, 2026 | Canonical | Define the characteristics of a builder who can continue creating value as technology changes. |
 | 007 | [The Builder's Legacy](007-the-builders-legacy.md) | August 2, 2026 | Canonical | Define the long-term legacy every Project Genesis contributor should aspire to leave. |
+| 008 | [The Humility Principle](008-the-humility-principle.md) | August 2, 2026 | Canonical | Define humility, evidence, reflection, and continuous improvement as permanent principles. |
 
 ## Current Indexes
 
