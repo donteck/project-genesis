@@ -168,7 +168,7 @@ The [Project Genesis Vision](docs/PROJECT_GENESIS_VISION.md) defines what the ec
 
 # Foundation
 
-The [Project Genesis Foundation](docs/foundation/README.md) contains the highest-level governing documents of Project Genesis. Its founding document, [The Genesis Declaration](docs/foundation/THE_GENESIS_DECLARATION.md), establishes Project Genesis as an Engineering School of Thought centered on purposeful software architecture, knowledge stewardship, AI-native engineering, and lifelong learning.
+The [Project Genesis Foundation](docs/foundation/README.md) contains the highest-level governing documents of Project Genesis. [The Genesis Covenant](docs/foundation/THE_GENESIS_COVENANT.md) establishes the permanent promise made to future builders, while [The Genesis Declaration](docs/foundation/THE_GENESIS_DECLARATION.md) establishes Project Genesis as an Engineering School of Thought.
 
 # Project Genesis Library
 
@@ -210,6 +210,8 @@ The recommended governing hierarchy is:
 Vision
   ↓
 Manifesto
+  ↓
+Genesis Covenant
   ↓
 Genesis Declaration
   ↓
@@ -276,7 +278,7 @@ The Knowledge Library protects the context behind major transitions so the next 
 
 # Project Governance
 
-The [Project Genesis Foundation](docs/foundation/README.md) preserves the highest-level governing hierarchy. Every future project follows the Vision, Manifesto, [Genesis Declaration](docs/foundation/THE_GENESIS_DECLARATION.md), Charter, and governing documents beneath them:
+The [Project Genesis Foundation](docs/foundation/README.md) preserves the highest-level governing hierarchy. Every future project follows the Vision, Manifesto, [Genesis Covenant](docs/foundation/THE_GENESIS_COVENANT.md), [Genesis Declaration](docs/foundation/THE_GENESIS_DECLARATION.md), Charter, and governing documents beneath them:
 
 - [Project Genesis Charter](docs/PROJECT_GENESIS_CHARTER.md)
 - [Engineering Philosophy](docs/LearningOS_Development_Philosophy.md)
