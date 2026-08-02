@@ -11,6 +11,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 004 | [The Measure of Success](004-the-measure-of-success.md) | August 2, 2026 | Canonical | Define meaningful success across products, knowledge, communities, and long-term impact. |
 | 005 | [The Legacy of Humanity](005-the-legacy-of-humanity.md) | August 2, 2026 | Canonical | Define the responsibility to preserve, improve, and transmit knowledge for future generations. |
 | 006 | [The Infinite Builder](006-the-infinite-builder.md) | August 2, 2026 | Canonical | Define the characteristics of a builder who can continue creating value as technology changes. |
+| 007 | [The Builder's Legacy](007-the-builders-legacy.md) | August 2, 2026 | Canonical | Define the long-term legacy every Project Genesis contributor should aspire to leave. |
 
 ## Current Indexes
 
