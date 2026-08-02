@@ -18,6 +18,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 012 | [Information Architecture](012-information-architecture.md) | August 2, 2026 | Canonical | Define the complete organizational structure of LearningOS content, navigation, features, and journeys. |
 | 013 | [The Application Shell](013-the-application-shell.md) | August 2, 2026 | Canonical | Define the permanent five-region shell that creates a consistent LearningOS experience. |
 | 014 | [The Learner Dashboard](014-the-learner-dashboard.md) | August 2, 2026 | Canonical | Define the primary dashboard experience for every learner in LearningOS. |
+| 015 | [The Learner Journey Engine](015-the-learner-journey-engine.md) | August 2, 2026 | Canonical | Define the engine that guides every learner from aspiration to demonstrated capability. |
 
 ## Current Indexes
 
