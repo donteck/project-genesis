@@ -20,6 +20,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 014 | [The Learner Dashboard](014-the-learner-dashboard.md) | August 2, 2026 | Canonical | Define the primary dashboard experience for every learner in LearningOS. |
 | 015 | [The Learner Journey Engine](015-the-learner-journey-engine.md) | August 2, 2026 | Canonical | Define the engine that guides every learner from aspiration to demonstrated capability. |
 | 016 | [The AI Mentor Architecture](016-the-ai-mentor-architecture.md) | August 2, 2026 | Canonical | Define the architecture, responsibilities, personality, ethics, and behavior of the LearningOS AI Mentor. |
+| 017 | [The Project Workspace](017-the-project-workspace.md) | August 2, 2026 | Canonical | Define the complete project creation environment used throughout LearningOS. |
 
 ## Current Indexes
 
