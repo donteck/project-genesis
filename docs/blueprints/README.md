@@ -10,6 +10,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 003 | [The Civilization of Builders](003-the-civilization-of-builders.md) | August 2, 2026 | Canonical | Define the long-term philosophy for cultivating generations of builders, mentors, educators, and innovators. |
 | 004 | [The Measure of Success](004-the-measure-of-success.md) | August 2, 2026 | Canonical | Define meaningful success across products, knowledge, communities, and long-term impact. |
 | 005 | [The Legacy of Humanity](005-the-legacy-of-humanity.md) | August 2, 2026 | Canonical | Define the responsibility to preserve, improve, and transmit knowledge for future generations. |
+| 006 | [The Infinite Builder](006-the-infinite-builder.md) | August 2, 2026 | Canonical | Define the characteristics of a builder who can continue creating value as technology changes. |
 
 ## Current Indexes
 
