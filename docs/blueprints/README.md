@@ -24,6 +24,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 018 | [The Assessment & Certification Engine](018-the-assessment-and-certification-engine.md) | August 2, 2026 | Canonical | Define the assessment framework that measures demonstrated capability rather than content completion. |
 | 019 | [The Portfolio & Evidence System](019-the-portfolio-and-evidence-system.md) | August 2, 2026 | Canonical | Define the system that transforms learning into professional evidence and career-ready portfolios. |
 | 020 | [The Community & Mentorship Network](020-the-community-and-mentorship-network.md) | August 2, 2026 | Canonical | Define the collaborative ecosystem that develops learners into mentors, contributors, and community leaders. |
+| 021 | [Identity & Authentication Architecture](021-identity-and-authentication-architecture.md) | August 2, 2026 | Canonical | Define the complete LearningOS identity lifecycle, authentication, onboarding, privacy, and learner profile architecture. |
 
 ## Current Indexes
 
