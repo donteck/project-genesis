@@ -26,6 +26,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 020 | [The Community & Mentorship Network](020-the-community-and-mentorship-network.md) | August 2, 2026 | Canonical | Define the collaborative ecosystem that develops learners into mentors, contributors, and community leaders. |
 | 021 | [Identity & Authentication Architecture](021-identity-and-authentication-architecture.md) | August 2, 2026 | Canonical | Define the complete LearningOS identity lifecycle, authentication, onboarding, privacy, and learner profile architecture. |
 | 022 | [User Roles & Permission Architecture](022-user-roles-and-permission-architecture.md) | August 2, 2026 | Canonical | Define the complete LearningOS role hierarchy, permission model, trust model, and governance architecture. |
+| 023 | [The Knowledge & Content Architecture](023-knowledge-and-content-architecture.md) | August 2, 2026 | Canonical | Define the complete LearningOS knowledge graph, content model, lifecycle, governance, versioning, and AI context architecture. |
 
 ## Current Indexes
 
