@@ -15,6 +15,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 008 | [The Humility Principle](008-the-humility-principle.md) | August 2, 2026 | Canonical | Define humility, evidence, reflection, and continuous improvement as permanent principles. |
 | 010 | [The Institution Principle](010-the-institution-principle.md) | August 2, 2026 | Canonical | Define how Project Genesis can become an enduring institution that serves future generations. |
 | 011 | [The Purpose of Human Potential](011-the-purpose-of-human-potential.md) | August 2, 2026 | Canonical | Establish unlocking human potential as the ultimate purpose of Project Genesis. |
+| 012 | [Information Architecture](012-information-architecture.md) | August 2, 2026 | Canonical | Define the complete organizational structure of LearningOS content, navigation, features, and journeys. |
 
 ## Current Indexes
 
