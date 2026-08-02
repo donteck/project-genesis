@@ -22,6 +22,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 016 | [The AI Mentor Architecture](016-the-ai-mentor-architecture.md) | August 2, 2026 | Canonical | Define the architecture, responsibilities, personality, ethics, and behavior of the LearningOS AI Mentor. |
 | 017 | [The Project Workspace](017-the-project-workspace.md) | August 2, 2026 | Canonical | Define the complete project creation environment used throughout LearningOS. |
 | 018 | [The Assessment & Certification Engine](018-the-assessment-and-certification-engine.md) | August 2, 2026 | Canonical | Define the assessment framework that measures demonstrated capability rather than content completion. |
+| 019 | [The Portfolio & Evidence System](019-the-portfolio-and-evidence-system.md) | August 2, 2026 | Canonical | Define the system that transforms learning into professional evidence and career-ready portfolios. |
 
 ## Current Indexes
 
