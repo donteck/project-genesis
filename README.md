@@ -145,9 +145,37 @@ The Project Genesis knowledge base preserves the purpose, governance, architectu
 - [Constitutions](#project-constitutions)
 - [Blueprints](indexes/GENESIS-MASTER-INDEX.md)
 - [Discoveries](docs/discoveries/README.md)
+- [Foundations](docs/foundations/README.md)
+- [Knowledge Library](docs/knowledge/README.md)
 - [Standards](#engineering-principles)
 
 Discoveries preserve the reasoning that shaped the evolution of Project Genesis. They record fundamental realizations after they occur so future contributors can understand why the mission, architecture, or product direction changed.
+
+Foundations preserve timeless philosophical truths intended to guide every generation of builders. Unlike Discoveries, they remain stable across changes in products, technologies, and eras.
+
+The documentation hierarchy is:
+
+```text
+Vision
+  ↓
+Charter
+  ↓
+Constitutions
+  ↓
+Blueprints
+  ↓
+Discoveries
+  ↓
+Foundations
+  ↓
+Knowledge Library
+  ↓
+Standards
+  ↓
+Engineering
+  ↓
+Products
+```
 
 # Knowledge Library
 
@@ -156,6 +184,7 @@ Important discoveries, reflections, and architectural conversations are preserve
 - [Knowledge Library](docs/knowledge/README.md)
 - [Blueprint Library](docs/blueprints/README.md)
 - [Discovery Library](docs/discoveries/README.md)
+- [Foundation Library](docs/foundations/README.md)
 - [Discovery 003 — The Human Transformation Revelation](docs/discoveries/003-the-human-transformation-revelation.md)
 
 The Knowledge Library protects the context behind major transitions so the next generation can understand not only what was built, but why the project evolved.

@@ -19,3 +19,4 @@ It records the reasoning surrounding major transitions so contributors can under
 - [Constitution Library](../constitutions/README.md)
 - [Blueprint Library](../blueprints/README.md)
 - [Discovery Library](../discoveries/README.md)
+- [Foundation Library](../foundations/README.md)
