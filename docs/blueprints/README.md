@@ -34,6 +34,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 028 | [Security, Privacy & Trust Architecture](028-security-privacy-and-trust-architecture.md) | August 2, 2026 | Canonical | Define the complete security, privacy, trust, governance, AI ethics, and resilience architecture for LearningOS. |
 | 029 | [Platform Operations, Scalability & Reliability](029-platform-operations-scalability-and-reliability.md) | August 2, 2026 | Canonical | Define the operational architecture, deployment philosophy, scalability model, observability strategy, disaster recovery approach, and continuous improvement lifecycle for LearningOS. |
 | 030 | [Platform Evolution & Innovation Architecture](030-platform-evolution-and-innovation-architecture.md) | August 2, 2026 | Canonical | Define the long-term evolution strategy, innovation lifecycle, modernization philosophy, institutional learning process, and knowledge preservation architecture for LearningOS. |
+| 031 | [Domain-Driven Architecture](031-domain-driven-architecture.md) | August 2, 2026 | Canonical | Define the business domains, bounded contexts, ownership model, event-driven collaboration, and long-term modular architecture of LearningOS. |
 
 ## Current Indexes
 
