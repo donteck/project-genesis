@@ -147,6 +147,23 @@ archive/
 
 The [Project Genesis Vision](docs/PROJECT_GENESIS_VISION.md) defines what the ecosystem is ultimately trying to build and guides every future blueprint, constitution, and engineering decision.
 
+# Project Genesis Library
+
+The [Project Genesis Library](docs/library/README.md) preserves the enduring knowledge of Project Genesis independently from the source code. It is a curated, permanent knowledge system for the project's intellectual history, philosophy, architecture, engineering practices, discoveries, case studies, evolution, and historical record.
+
+- [Volume 01 — The Vision](docs/library/Volume-01-The-Vision/README.md)
+- [Volume 02 — The Philosophy](docs/library/Volume-02-The-Philosophy/README.md)
+- [Volume 03 — The Manifesto](docs/library/Volume-03-The-Manifesto/README.md)
+- [Volume 04 — The Canonical Blueprints](docs/library/Volume-04-The-Canonical-Blueprints/README.md)
+- [Volume 05 — The Discoveries](docs/library/Volume-05-The-Discoveries/README.md)
+- [Volume 06 — The Engineering Standards](docs/library/Volume-06-The-Engineering-Standards/README.md)
+- [Volume 07 — The Architecture](docs/library/Volume-07-The-Architecture/README.md)
+- [Volume 08 — LearningOS Case Study](docs/library/Volume-08-LearningOS-Case-Study/README.md)
+- [Volume 09 — The Evolution Journal](docs/library/Volume-09-The-Evolution-Journal/README.md)
+- [Volume 10 — The Historical Archives](docs/library/Volume-10-The-Historical-Archives/README.md)
+
+The Library is designed to evolve for decades while preserving context, provenance, relationships, and knowledge that future generations of builders can extend.
+
 # Knowledge Base
 
 The Project Genesis knowledge base preserves the purpose, governance, architecture, standards, and insights that shape the ecosystem:
