@@ -6,6 +6,8 @@ Unlike source code, the Library exists to preserve knowledge. It is not merely a
 
 The Library is organized into permanent volumes. Individual works may be added, revised, superseded, or archived, but the volume structure provides a durable intellectual home for each class of knowledge.
 
+The [Knowledge Multiplication Principle](../discoveries/006-the-knowledge-multiplication-principle.md) guides how the Library's important ideas extend beyond their canonical sources. Repository documentation, Blueprints, books, videos, courses, workshops, certifications, product features, AI knowledge packs, and community discussions may become complementary expressions of one governed knowledge family.
+
 ## Permanent Volumes
 
 | Volume | Title | Purpose |
@@ -29,5 +31,6 @@ The Library is organized into permanent volumes. Individual works may be added, 
 - **Durable:** knowledge should remain understandable across tools and generations.
 - **Evolving:** correction and improvement should preserve the record of change.
 - **Generative:** preserved knowledge should help future builders learn, create, and contribute.
+- **Multipliable:** important ideas should be adaptable across complementary media while preserving canonical authority, provenance, and meaning.
 
 The Library is a permanent pillar of Project Genesis and is intended to evolve for decades. Its success is measured by whether future generations can understand what Project Genesis believed, what it built, what it learned, how it changed, and how they can carry the work further.
