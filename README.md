@@ -187,6 +187,7 @@ Important discoveries, reflections, and architectural conversations are preserve
 - [Foundation Library](docs/foundations/README.md)
 - [Discovery 003 — The Human Transformation Revelation](docs/discoveries/003-the-human-transformation-revelation.md)
 - [Discovery 004 — The Creator's Responsibility Revelation](docs/discoveries/004-the-creators-responsibility-revelation.md)
+- [Discovery 005 — The School of Thought Revelation](docs/discoveries/005-the-school-of-thought-revelation.md)
 
 The Knowledge Library protects the context behind major transitions so the next generation can understand not only what was built, but why the project evolved.
 
