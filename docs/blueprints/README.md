@@ -7,6 +7,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | Number | Title | Date | Status | Purpose |
 |---|---|---|---|---|
 | 001 | [The Constitution of Learning](001-the-constitution-of-learning.md) | August 2, 2026 | Canonical | Establish the authoritative Project Genesis definition and philosophy of learning. |
+| 003 | [The Civilization of Builders](003-the-civilization-of-builders.md) | August 2, 2026 | Canonical | Define the long-term philosophy for cultivating generations of builders, mentors, educators, and innovators. |
 
 ## Current Indexes
 
