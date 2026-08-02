@@ -2,6 +2,8 @@
 
 The Project Genesis Library preserves the complete intellectual history, philosophy, architecture, engineering practices, discoveries, and evolution of Project Genesis.
 
+The [Project Genesis Foundation](../foundation/README.md) contains the highest-level governing documents that give the Library its purpose and authority. [The Genesis Declaration](../foundation/THE_GENESIS_DECLARATION.md) establishes the Engineering School of Thought whose knowledge the Library preserves across generations.
+
 Unlike source code, the Library exists to preserve knowledge. It is not merely a collection of documentation files or a mirror of the repository. It is the curated body of knowledge produced by Project Genesis: the ideas that explain why the work exists, the principles that guide it, the discoveries that changed it, the systems that express it, and the record through which future builders can understand and improve it.
 
 The Library is organized into permanent volumes. Individual works may be added, revised, superseded, or archived, but the volume structure provides a durable intellectual home for each class of knowledge.
