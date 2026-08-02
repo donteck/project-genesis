@@ -2,6 +2,12 @@
 
 The Blueprint Library organizes architectural plans that translate Project Genesis vision and governance into buildable systems.
 
+## Canonical Blueprints
+
+| Number | Title | Date | Status | Purpose |
+|---|---|---|---|---|
+| 001 | [The Constitution of Learning](001-the-constitution-of-learning.md) | August 2, 2026 | Canonical | Establish the authoritative Project Genesis definition and philosophy of learning. |
+
 ## Current Indexes
 
 - [Genesis Master Architecture Index](../../indexes/GENESIS-MASTER-INDEX.md)
