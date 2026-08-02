@@ -32,6 +32,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 026 | [Learning Analytics & Intelligence Engine](026-learning-analytics-and-intelligence-engine.md) | August 2, 2026 | Canonical | Define the complete analytics, intelligence, predictive learning, dashboard, and continuous improvement architecture for LearningOS. |
 | 027 | [The API & Integration Architecture](027-api-and-integration-architecture.md) | August 2, 2026 | Canonical | Define the complete API strategy, integration architecture, event system, webhook model, SDK strategy, and external ecosystem for LearningOS. |
 | 028 | [Security, Privacy & Trust Architecture](028-security-privacy-and-trust-architecture.md) | August 2, 2026 | Canonical | Define the complete security, privacy, trust, governance, AI ethics, and resilience architecture for LearningOS. |
+| 029 | [Platform Operations, Scalability & Reliability](029-platform-operations-scalability-and-reliability.md) | August 2, 2026 | Canonical | Define the operational architecture, deployment philosophy, scalability model, observability strategy, disaster recovery approach, and continuous improvement lifecycle for LearningOS. |
 
 ## Current Indexes
 
