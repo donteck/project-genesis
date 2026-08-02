@@ -8,6 +8,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 |---|---|---|---|---|
 | 001 | [The Constitution of Learning](001-the-constitution-of-learning.md) | August 2, 2026 | Canonical | Establish the authoritative Project Genesis definition and philosophy of learning. |
 | 003 | [The Civilization of Builders](003-the-civilization-of-builders.md) | August 2, 2026 | Canonical | Define the long-term philosophy for cultivating generations of builders, mentors, educators, and innovators. |
+| 004 | [The Measure of Success](004-the-measure-of-success.md) | August 2, 2026 | Canonical | Define meaningful success across products, knowledge, communities, and long-term impact. |
 
 ## Current Indexes
 

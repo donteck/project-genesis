@@ -51,6 +51,7 @@ Idea
 ## Architecture Navigation
 
 - [Canonical Blueprint 003 — The Civilization of Builders](docs/blueprints/003-the-civilization-of-builders.md)
+- [Canonical Blueprint 004 — The Measure of Success](docs/blueprints/004-the-measure-of-success.md)
 - [Genesis Master Architecture Index](indexes/GENESIS-MASTER-INDEX.md)
 - [Genesis Progress and Documentation Tracker](indexes/GENESIS-PROGRESS-TRACKER.md)
 - [Project Genesis 0.1–1.0 Architecture Record](docs/02-architecture/PROJECT-GENESIS-0.1-TO-1.0.md)
@@ -185,6 +186,7 @@ Important discoveries, reflections, and architectural conversations are preserve
 - [Knowledge Library](docs/knowledge/README.md)
 - [Blueprint Library](docs/blueprints/README.md)
 - [Canonical Blueprint 003 — The Civilization of Builders](docs/blueprints/003-the-civilization-of-builders.md)
+- [Canonical Blueprint 004 — The Measure of Success](docs/blueprints/004-the-measure-of-success.md)
 - [Discovery Library](docs/discoveries/README.md)
 - [Foundation Library](docs/foundations/README.md)
 - [Discovery 003 — The Human Transformation Revelation](docs/discoveries/003-the-human-transformation-revelation.md)
