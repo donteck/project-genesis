@@ -8,6 +8,24 @@ The Library is organized into permanent volumes. Individual works may be added, 
 
 The [Knowledge Multiplication Principle](../discoveries/006-the-knowledge-multiplication-principle.md) guides how the Library's important ideas extend beyond their canonical sources. Repository documentation, Blueprints, books, videos, courses, workshops, certifications, product features, AI knowledge packs, and community discussions may become complementary expressions of one governed knowledge family.
 
+## Publication Learning Path
+
+The [Knowledge Pyramid Principle](../discoveries/007-the-knowledge-pyramid-principle.md) establishes the intended learning path for every future Project Genesis publication:
+
+```text
+Information
+    ↓
+Knowledge
+    ↓
+Principles
+    ↓
+Wisdom
+```
+
+Every publication should intentionally guide readers through the levels appropriate to its purpose. It should provide trustworthy facts, connect those facts into understanding, identify the principles that guide decisions, and create opportunities to practice the judgment required to determine when and why those principles should be applied.
+
+Not every individual artifact must complete the entire progression. Each artifact must identify the level it serves, connect readers to the next level, and remain part of a knowledge family that supports movement from Information toward Wisdom.
+
 ## Permanent Volumes
 
 | Volume | Title | Purpose |
