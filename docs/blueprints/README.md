@@ -27,6 +27,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 021 | [Identity & Authentication Architecture](021-identity-and-authentication-architecture.md) | August 2, 2026 | Canonical | Define the complete LearningOS identity lifecycle, authentication, onboarding, privacy, and learner profile architecture. |
 | 022 | [User Roles & Permission Architecture](022-user-roles-and-permission-architecture.md) | August 2, 2026 | Canonical | Define the complete LearningOS role hierarchy, permission model, trust model, and governance architecture. |
 | 023 | [The Knowledge & Content Architecture](023-knowledge-and-content-architecture.md) | August 2, 2026 | Canonical | Define the complete LearningOS knowledge graph, content model, lifecycle, governance, versioning, and AI context architecture. |
+| 024 | [The AI Orchestration Layer](024-the-ai-orchestration-layer.md) | August 2, 2026 | Canonical | Define the multi-agent architecture that coordinates specialized LearningOS AI mentors. |
 
 ## Current Indexes
 
