@@ -62,10 +62,11 @@ These ranges must not be marked as fully documented until each detailed source r
 | 042 | AI Agent SDK & Tooling Architecture | Complete | [Blueprint 042](../docs/blueprints/042-ai-agent-sdk-and-tooling-architecture.md) |
 | 043 | Enterprise Organization Architecture | Complete | [Blueprint 043](../docs/blueprints/043-enterprise-organization-architecture.md) |
 | 044 | Multi-Tenant Deployment Architecture | Complete | [Blueprint 044](../docs/blueprints/044-multi-tenant-deployment-architecture.md) |
+| 045 | LearningOS Kernel Architecture | Complete | [Blueprint 045](../docs/blueprints/045-learningos-kernel-architecture.md) |
 
-**Next canonical blueprint:** Canonical Blueprint 045 — LearningOS Kernel Architecture.
+**Architectural progression:** Canonical Blueprints 040–045 are complete.
 
-Blueprint 045 has not yet been created.
+**Next canonical blueprint:** Pending architectural direction.
 
 ## Quality Controls
 

@@ -47,6 +47,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 042 | [AI Agent SDK & Tooling Architecture](042-ai-agent-sdk-and-tooling-architecture.md) | August 3, 2026 | Canonical | Define the SDK, runtime contracts, developer tooling, memory interfaces, tool execution, testing, evaluation, deployment, observability, and governance architecture for LearningOS AI agents. |
 | 043 | [Enterprise Organization Architecture](043-enterprise-organization-architecture.md) | August 3, 2026 | Canonical | Define enterprise identity, hierarchy, membership, delegated administration, policy, governance, learning operations, procurement, data stewardship, security, compliance, billing, and collaboration. |
 | 044 | [Multi-Tenant Deployment Architecture](044-multi-tenant-deployment-architecture.md) | August 3, 2026 | Canonical | Define tenant isolation, provisioning, regional deployment, data residency, scaling, backup, recovery, migration, federation, observability, security, and enterprise cloud operation for LearningOS. |
+| 045 | [LearningOS Kernel Architecture](045-learningos-kernel-architecture.md) | August 3, 2026 | Canonical | Define the authoritative platform core for execution context, tenant boundaries, policy enforcement, capabilities, modules, ecosystem control, security, compatibility, and recovery. |
 
 ## Current Indexes
 
