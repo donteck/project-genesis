@@ -7,12 +7,14 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | Number | Title | Date | Status | Purpose |
 |---|---|---|---|---|
 | 001 | [The Constitution of Learning](001-the-constitution-of-learning.md) | August 2, 2026 | Canonical | Establish the authoritative Project Genesis definition and philosophy of learning. |
+| 002 | [The Knowledge Cycle](002-the-knowledge-cycle.md) | August 3, 2026 | Canonical | Define the regenerative cycle through which knowledge becomes capability, contribution, and inheritance. |
 | 003 | [The Civilization of Builders](003-the-civilization-of-builders.md) | August 2, 2026 | Canonical | Define the long-term philosophy for cultivating generations of builders, mentors, educators, and innovators. |
 | 004 | [The Measure of Success](004-the-measure-of-success.md) | August 2, 2026 | Canonical | Define meaningful success across products, knowledge, communities, and long-term impact. |
 | 005 | [The Legacy of Humanity](005-the-legacy-of-humanity.md) | August 2, 2026 | Canonical | Define the responsibility to preserve, improve, and transmit knowledge for future generations. |
 | 006 | [The Infinite Builder](006-the-infinite-builder.md) | August 2, 2026 | Canonical | Define the characteristics of a builder who can continue creating value as technology changes. |
 | 007 | [The Builder's Legacy](007-the-builders-legacy.md) | August 2, 2026 | Canonical | Define the long-term legacy every Project Genesis contributor should aspire to leave. |
 | 008 | [The Humility Principle](008-the-humility-principle.md) | August 2, 2026 | Canonical | Define humility, evidence, reflection, and continuous improvement as permanent principles. |
+| 009 | [The Stewardship Principle](009-the-stewardship-principle.md) | August 3, 2026 | Canonical | Define the duty to protect, improve, account for, and responsibly transfer what Project Genesis holds in trust. |
 | 010 | [The Institution Principle](010-the-institution-principle.md) | August 2, 2026 | Canonical | Define how Project Genesis can become an enduring institution that serves future generations. |
 | 011 | [The Purpose of Human Potential](011-the-purpose-of-human-potential.md) | August 2, 2026 | Canonical | Establish unlocking human potential as the ultimate purpose of Project Genesis. |
 | 012 | [Information Architecture](012-information-architecture.md) | August 2, 2026 | Canonical | Define the complete organizational structure of LearningOS content, navigation, features, and journeys. |
@@ -36,6 +38,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 030 | [Platform Evolution & Innovation Architecture](030-platform-evolution-and-innovation-architecture.md) | August 2, 2026 | Canonical | Define the long-term evolution strategy, innovation lifecycle, modernization philosophy, institutional learning process, and knowledge preservation architecture for LearningOS. |
 | 031 | [Domain-Driven Architecture](031-domain-driven-architecture.md) | August 2, 2026 | Canonical | Define the business domains, bounded contexts, ownership model, event-driven collaboration, and long-term modular architecture of LearningOS. |
 | 032 | [The Event-Driven Architecture](032-event-driven-architecture.md) | August 2, 2026 | Canonical | Define the complete LearningOS event communication model, event bus, categories, storage, replay, reliability, and observability. |
+| 033 | [The Application Architecture](033-application-architecture.md) | August 3, 2026 | Canonical | Define how domain capabilities, events, interfaces, data, and infrastructure compose into an evolvable LearningOS application. |
 | 034 | [The Frontend Architecture](034-frontend-architecture.md) | August 2, 2026 | Canonical | Define the complete frontend architecture, design system, component hierarchy, layouts, state, accessibility, responsiveness, performance, and engineering organization for LearningOS. |
 | 035 | [The Backend & Service Architecture](035-backend-and-service-architecture.md) | August 2, 2026 | Canonical | Define backend layers, domain services, use cases, repositories, adapters, modular boundaries, security, observability, and testing for LearningOS. |
 | 036 | [The Database Schema Architecture](036-database-schema-architecture.md) | August 2, 2026 | Canonical | Define relational schema philosophy, domain ownership, constraints, RLS, multi-tenancy, migrations, retention, indexing, auditability, backup, and recovery for LearningOS. |

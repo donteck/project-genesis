@@ -20,6 +20,9 @@ The foundation record covers vision and mission, system architecture, database a
 ## Canonical Blueprint Architecture
 
 - [Canonical Blueprint Library](../docs/blueprints/README.md)
+- [Canonical Blueprint 002 — The Knowledge Cycle](../docs/blueprints/002-the-knowledge-cycle.md)
+- [Canonical Blueprint 009 — The Stewardship Principle](../docs/blueprints/009-the-stewardship-principle.md)
+- [Canonical Blueprint 033 — The Application Architecture](../docs/blueprints/033-application-architecture.md)
 - [Canonical Blueprint 040 — Plugin & Extension Architecture](../docs/blueprints/040-plugin-and-extension-architecture.md)
 - [Canonical Blueprint 041 — Marketplace & Package Registry Architecture](../docs/blueprints/041-marketplace-and-package-registry-architecture.md)
 - [Canonical Blueprint 042 — AI Agent SDK & Tooling Architecture](../docs/blueprints/042-ai-agent-sdk-and-tooling-architecture.md)
@@ -32,6 +35,8 @@ The foundation record covers vision and mission, system architecture, database a
 - [Canonical Blueprint 049 — Canonical Knowledge Graph Architecture](../docs/blueprints/049-canonical-knowledge-graph-architecture.md)
 
 Blueprint 040 begins the Extensibility Layer of LearningOS. Future plugin, marketplace, SDK, integration, and ecosystem blueprints build upon its extension contracts, lifecycle, permissions, sandboxing, compatibility, security, observability, testing, and governance architecture.
+
+Blueprints 002, 009, and 033 restore previously missing canonical records for the Knowledge Cycle, the Stewardship Principle, and the LearningOS Application Architecture. Their restoration closes the unexplained numbering gaps in the Genesis Foundation sequence.
 
 Blueprint 041 establishes the trusted distribution layer for LearningOS packages.
 

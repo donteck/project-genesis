@@ -57,6 +57,9 @@ These ranges must not be marked as fully documented until each detailed source r
 
 | Blueprint | Title | Documentation Status | Canonical File |
 |---|---|---|---|
+| 002 | The Knowledge Cycle | Complete | [Blueprint 002](../docs/blueprints/002-the-knowledge-cycle.md) |
+| 009 | The Stewardship Principle | Complete | [Blueprint 009](../docs/blueprints/009-the-stewardship-principle.md) |
+| 033 | The Application Architecture | Complete | [Blueprint 033](../docs/blueprints/033-application-architecture.md) |
 | 040 | Plugin & Extension Architecture | Complete | [Blueprint 040](../docs/blueprints/040-plugin-and-extension-architecture.md) |
 | 041 | Marketplace & Package Registry Architecture | Complete | [Blueprint 041](../docs/blueprints/041-marketplace-and-package-registry-architecture.md) |
 | 042 | AI Agent SDK & Tooling Architecture | Complete | [Blueprint 042](../docs/blueprints/042-ai-agent-sdk-and-tooling-architecture.md) |
