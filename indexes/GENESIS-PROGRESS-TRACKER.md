@@ -61,10 +61,11 @@ These ranges must not be marked as fully documented until each detailed source r
 | 041 | Marketplace & Package Registry Architecture | Complete | [Blueprint 041](../docs/blueprints/041-marketplace-and-package-registry-architecture.md) |
 | 042 | AI Agent SDK & Tooling Architecture | Complete | [Blueprint 042](../docs/blueprints/042-ai-agent-sdk-and-tooling-architecture.md) |
 | 043 | Enterprise Organization Architecture | Complete | [Blueprint 043](../docs/blueprints/043-enterprise-organization-architecture.md) |
+| 044 | Multi-Tenant Deployment Architecture | Complete | [Blueprint 044](../docs/blueprints/044-multi-tenant-deployment-architecture.md) |
 
-**Next canonical blueprint:** Canonical Blueprint 044 — Multi-Tenant Deployment Architecture.
+**Next canonical blueprint:** Canonical Blueprint 045 — LearningOS Kernel Architecture.
 
-Blueprint 044 has not yet been created.
+Blueprint 045 has not yet been created.
 
 ## Quality Controls
 
