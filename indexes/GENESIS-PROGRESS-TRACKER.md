@@ -53,6 +53,17 @@ The following ranges should be restored from their original approved conversatio
 
 These ranges must not be marked as fully documented until each detailed source record is present and linked from the master index.
 
+## Canonical Blueprint Progress
+
+| Blueprint | Title | Documentation Status | Canonical File |
+|---|---|---|---|
+| 040 | Plugin & Extension Architecture | Complete | [Blueprint 040](../docs/blueprints/040-plugin-and-extension-architecture.md) |
+| 041 | Marketplace & Package Registry Architecture | Complete | [Blueprint 041](../docs/blueprints/041-marketplace-and-package-registry-architecture.md) |
+
+**Next canonical blueprint:** Canonical Blueprint 042 — AI Agent SDK & Tooling Architecture.
+
+Blueprint 042 has not yet been created.
+
 ## Quality Controls
 
 Before a milestone is marked complete in the repository:

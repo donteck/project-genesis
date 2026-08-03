@@ -43,6 +43,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 038 | [AI Memory & Context Engineering Architecture](038-ai-memory-and-context-engineering-architecture.md) | August 2, 2026 | Canonical | Define governed AI memory, context retrieval, prioritization, safety, explainability, model independence, privacy, observability, and evaluation for LearningOS. |
 | 039 | [The Workflow & Automation Engine](039-workflow-and-automation-engine.md) | August 2, 2026 | Canonical | Define workflow orchestration, event-driven and scheduled automation, AI-coordinated processes, approval gates, retries, idempotency, compensation, observability, security, and testing for LearningOS. |
 | 040 | [Plugin & Extension Architecture](040-plugin-and-extension-architecture.md) | August 3, 2026 | Canonical | Define the LearningOS extension model, lifecycle, contracts, permissions, sandboxing, event integration, marketplace, compatibility, security, observability, testing, and governance. |
+| 041 | [Marketplace & Package Registry Architecture](041-marketplace-and-package-registry-architecture.md) | August 3, 2026 | Canonical | Define the architecture through which LearningOS packages are published, verified, discovered, acquired, installed, licensed, updated, governed, and retired. |
 
 ## Current Indexes
 

@@ -21,8 +21,11 @@ The foundation record covers vision and mission, system architecture, database a
 
 - [Canonical Blueprint Library](../docs/blueprints/README.md)
 - [Canonical Blueprint 040 — Plugin & Extension Architecture](../docs/blueprints/040-plugin-and-extension-architecture.md)
+- [Canonical Blueprint 041 — Marketplace & Package Registry Architecture](../docs/blueprints/041-marketplace-and-package-registry-architecture.md)
 
 Blueprint 040 begins the Extensibility Layer of LearningOS. Future plugin, marketplace, SDK, integration, and ecosystem blueprints build upon its extension contracts, lifecycle, permissions, sandboxing, compatibility, security, observability, testing, and governance architecture.
+
+Blueprint 041 establishes the trusted distribution layer for LearningOS packages and is complete. Canonical Blueprint 042 — AI Agent SDK & Tooling Architecture is the next canonical blueprint.
 
 ## Genesis 8.x — Enterprise Ecosystem Era
 
