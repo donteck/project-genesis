@@ -10,6 +10,7 @@ The Foundation is distinct from the numbered [Foundations Registry](../foundatio
 - [The Genesis Covenant](THE_GENESIS_COVENANT.md) — establishes the permanent moral and professional promise made to future builders.
 - [The Genesis Declaration](THE_GENESIS_DECLARATION.md) — establishes Project Genesis as an Engineering School of Thought centered on purposeful software architecture, knowledge stewardship, AI-native engineering, and lifelong learning.
 - [The Constitution of Builders](THE_CONSTITUTION_OF_BUILDERS.md) — establishes the governing principles, responsibilities, and ethical commitments expected of every contributor.
+- [The Genesis Legacy](THE_GENESIS_LEGACY.md) — defines the long-term responsibility to preserve knowledge, leave understandable systems, prepare successors, and create value for future builders.
 
 Future documents may be referenced here only when their authority and relationship to the governing hierarchy have been explicitly established.
 
@@ -27,6 +28,8 @@ Genesis Declaration
 Charter
   ↓
 Constitutions
+  ↓
+Genesis Legacy
   ↓
 Canonical Blueprints
   ↓
