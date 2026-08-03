@@ -49,6 +49,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 044 | [Multi-Tenant Deployment Architecture](044-multi-tenant-deployment-architecture.md) | August 3, 2026 | Canonical | Define tenant isolation, provisioning, regional deployment, data residency, scaling, backup, recovery, migration, federation, observability, security, and enterprise cloud operation for LearningOS. |
 | 045 | [LearningOS Kernel Architecture](045-learningos-kernel-architecture.md) | August 3, 2026 | Canonical | Define the authoritative platform core for execution context, tenant boundaries, policy enforcement, capabilities, modules, ecosystem control, security, compatibility, and recovery. |
 | 046 | [Platform Governance & Constitutional Runtime Architecture](046-platform-governance-and-constitutional-runtime-architecture.md) | August 3, 2026 | Canonical | Define how Project Genesis authority becomes versioned, explainable, enforceable, appealable, and accountable platform governance above the LearningOS Kernel. |
+| 047 | [Institutional Stewardship & Succession Architecture](047-institutional-stewardship-and-succession-architecture.md) | August 3, 2026 | Canonical | Define stewardship, leadership transition, authority transfer, institutional memory, asset custody, emergency succession, and generational continuity for Project Genesis and LearningOS. |
 
 ## Current Indexes
 
