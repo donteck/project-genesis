@@ -37,6 +37,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 031 | [Domain-Driven Architecture](031-domain-driven-architecture.md) | August 2, 2026 | Canonical | Define the business domains, bounded contexts, ownership model, event-driven collaboration, and long-term modular architecture of LearningOS. |
 | 032 | [The Event-Driven Architecture](032-event-driven-architecture.md) | August 2, 2026 | Canonical | Define the complete LearningOS event communication model, event bus, categories, storage, replay, reliability, and observability. |
 | 034 | [The Frontend Architecture](034-frontend-architecture.md) | August 2, 2026 | Canonical | Define the complete frontend architecture, design system, component hierarchy, layouts, state, accessibility, responsiveness, performance, and engineering organization for LearningOS. |
+| 035 | [The Backend & Service Architecture](035-backend-and-service-architecture.md) | August 2, 2026 | Canonical | Define backend layers, domain services, use cases, repositories, adapters, modular boundaries, security, observability, and testing for LearningOS. |
 
 ## Current Indexes
 
