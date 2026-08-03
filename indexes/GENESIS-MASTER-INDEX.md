@@ -29,6 +29,7 @@ The foundation record covers vision and mission, system architecture, database a
 - [Canonical Blueprint 046 — Platform Governance & Constitutional Runtime Architecture](../docs/blueprints/046-platform-governance-and-constitutional-runtime-architecture.md)
 - [Canonical Blueprint 047 — Institutional Stewardship & Succession Architecture](../docs/blueprints/047-institutional-stewardship-and-succession-architecture.md)
 - [Canonical Blueprint 048 — Global Federation Architecture](../docs/blueprints/048-global-federation-architecture.md)
+- [Canonical Blueprint 049 — Canonical Knowledge Graph Architecture](../docs/blueprints/049-canonical-knowledge-graph-architecture.md)
 
 Blueprint 040 begins the Extensibility Layer of LearningOS. Future plugin, marketplace, SDK, integration, and ecosystem blueprints build upon its extension contracts, lifecycle, permissions, sandboxing, compatibility, security, observability, testing, and governance architecture.
 
@@ -46,7 +47,9 @@ Blueprint 046 establishes the governance control plane through which Project Gen
 
 Blueprint 047 establishes the institutional stewardship, succession, authority-transfer, knowledge-preservation, asset-custody, emergency-continuity, and generational-governance architecture.
 
-Blueprint 048 establishes trusted interoperability among sovereign LearningOS deployments, organizations, identities, credentials, content networks, registries, agents, and learning communities. Canonical Blueprint 049 remains pending the next approved architectural direction.
+Blueprint 048 establishes trusted interoperability among sovereign LearningOS deployments, organizations, identities, credentials, content networks, registries, agents, and learning communities.
+
+Blueprint 049 establishes the authoritative concepts, relationships, evidence, provenance, ontology, temporal history, inference, retrieval, AI grounding, federation, and governance architecture for shared LearningOS meaning. Canonical Blueprint 050 remains pending the next approved architectural direction.
 
 ## Genesis 8.x — Enterprise Ecosystem Era
 

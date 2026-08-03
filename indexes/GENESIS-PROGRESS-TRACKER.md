@@ -66,10 +66,11 @@ These ranges must not be marked as fully documented until each detailed source r
 | 046 | Platform Governance & Constitutional Runtime Architecture | Complete | [Blueprint 046](../docs/blueprints/046-platform-governance-and-constitutional-runtime-architecture.md) |
 | 047 | Institutional Stewardship & Succession Architecture | Complete | [Blueprint 047](../docs/blueprints/047-institutional-stewardship-and-succession-architecture.md) |
 | 048 | Global Federation Architecture | Complete | [Blueprint 048](../docs/blueprints/048-global-federation-architecture.md) |
+| 049 | Canonical Knowledge Graph Architecture | Complete | [Blueprint 049](../docs/blueprints/049-canonical-knowledge-graph-architecture.md) |
 
-**Architectural progression:** Canonical Blueprints 040–048 are complete.
+**Architectural progression:** Canonical Blueprints 040–049 are complete.
 
-**Next canonical blueprint:** Canonical Blueprint 049 — pending the next approved architectural direction.
+**Next canonical blueprint:** Canonical Blueprint 050 — pending the next approved architectural direction.
 
 ## Quality Controls
 
