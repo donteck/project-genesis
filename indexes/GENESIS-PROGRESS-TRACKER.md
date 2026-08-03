@@ -70,10 +70,11 @@ These ranges must not be marked as fully documented until each detailed source r
 | 047 | Institutional Stewardship & Succession Architecture | Complete | [Blueprint 047](../docs/blueprints/047-institutional-stewardship-and-succession-architecture.md) |
 | 048 | Global Federation Architecture | Complete | [Blueprint 048](../docs/blueprints/048-global-federation-architecture.md) |
 | 049 | Canonical Knowledge Graph Architecture | Complete | [Blueprint 049](../docs/blueprints/049-canonical-knowledge-graph-architecture.md) |
+| 050 | Long-Term Evolution Architecture | Complete | [Blueprint 050](../docs/blueprints/050-long-term-evolution-architecture.md) |
 
-**Architectural progression:** Canonical Blueprints 040–049 are complete.
+**Architectural progression:** Canonical Blueprints 001–050 are present and complete. The **Genesis Foundation (001–050)** milestone is complete.
 
-**Next canonical blueprint:** Canonical Blueprint 050 — pending the next approved architectural direction.
+**Next canonical blueprint:** Pending the next approved architectural direction. Blueprint 051 has not been created.
 
 ## Quality Controls
 

@@ -33,6 +33,7 @@ The foundation record covers vision and mission, system architecture, database a
 - [Canonical Blueprint 047 — Institutional Stewardship & Succession Architecture](../docs/blueprints/047-institutional-stewardship-and-succession-architecture.md)
 - [Canonical Blueprint 048 — Global Federation Architecture](../docs/blueprints/048-global-federation-architecture.md)
 - [Canonical Blueprint 049 — Canonical Knowledge Graph Architecture](../docs/blueprints/049-canonical-knowledge-graph-architecture.md)
+- [Canonical Blueprint 050 — Long-Term Evolution Architecture](../docs/blueprints/050-long-term-evolution-architecture.md)
 
 Blueprint 040 begins the Extensibility Layer of LearningOS. Future plugin, marketplace, SDK, integration, and ecosystem blueprints build upon its extension contracts, lifecycle, permissions, sandboxing, compatibility, security, observability, testing, and governance architecture.
 
@@ -54,7 +55,9 @@ Blueprint 047 establishes the institutional stewardship, succession, authority-t
 
 Blueprint 048 establishes trusted interoperability among sovereign LearningOS deployments, organizations, identities, credentials, content networks, registries, agents, and learning communities.
 
-Blueprint 049 establishes the authoritative concepts, relationships, evidence, provenance, ontology, temporal history, inference, retrieval, AI grounding, federation, and governance architecture for shared LearningOS meaning. Canonical Blueprint 050 remains pending the next approved architectural direction.
+Blueprint 049 establishes the authoritative concepts, relationships, evidence, provenance, ontology, temporal history, inference, retrieval, AI grounding, federation, and governance architecture for shared LearningOS meaning.
+
+Blueprint 050 establishes the long-term evolution, compatibility, modernization, migration, experimentation, deprecation, institutional-learning, and generational-continuity architecture. With the restored gap records and validation of every canonical number, the Genesis Foundation (001–050) milestone is complete.
 
 ## Genesis 8.x — Enterprise Ecosystem Era
 

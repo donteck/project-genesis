@@ -55,6 +55,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 047 | [Institutional Stewardship & Succession Architecture](047-institutional-stewardship-and-succession-architecture.md) | August 3, 2026 | Canonical | Define stewardship, leadership transition, authority transfer, institutional memory, asset custody, emergency succession, and generational continuity for Project Genesis and LearningOS. |
 | 048 | [Global Federation Architecture](048-global-federation-architecture.md) | August 3, 2026 | Canonical | Define trusted interoperability among sovereign LearningOS deployments, organizations, identities, credentials, content networks, registries, agents, and learning communities. |
 | 049 | [Canonical Knowledge Graph Architecture](049-canonical-knowledge-graph-architecture.md) | August 3, 2026 | Canonical | Define authoritative concepts, entities, relationships, evidence, provenance, ontology, temporal history, inference, retrieval, AI grounding, federation, and knowledge governance. |
+| 050 | [Long-Term Evolution Architecture](050-long-term-evolution-architecture.md) | August 3, 2026 | Canonical | Define responsible strategic evolution, compatibility, modernization, migration, experimentation, deprecation, institutional learning, and generational continuity. |
 
 ## Current Indexes
 
