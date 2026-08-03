@@ -26,6 +26,7 @@ The foundation record covers vision and mission, system architecture, database a
 - [Canonical Blueprint 043 — Enterprise Organization Architecture](../docs/blueprints/043-enterprise-organization-architecture.md)
 - [Canonical Blueprint 044 — Multi-Tenant Deployment Architecture](../docs/blueprints/044-multi-tenant-deployment-architecture.md)
 - [Canonical Blueprint 045 — LearningOS Kernel Architecture](../docs/blueprints/045-learningos-kernel-architecture.md)
+- [Canonical Blueprint 046 — Platform Governance & Constitutional Runtime Architecture](../docs/blueprints/046-platform-governance-and-constitutional-runtime-architecture.md)
 
 Blueprint 040 begins the Extensibility Layer of LearningOS. Future plugin, marketplace, SDK, integration, and ecosystem blueprints build upon its extension contracts, lifecycle, permissions, sandboxing, compatibility, security, observability, testing, and governance architecture.
 
@@ -37,7 +38,9 @@ Blueprint 043 establishes the enterprise identity, hierarchy, membership, delega
 
 Blueprint 044 establishes tenant isolation, provisioning, regional deployment, data residency, scaling, backup, recovery, migration, federation, observability, security, and enterprise cloud operation.
 
-Blueprint 045 establishes the canonical LearningOS Kernel responsible for execution context, tenant boundaries, policy enforcement, capabilities, module coordination, ecosystem control, security, compatibility, and recovery. The 040–045 architectural progression is complete, and the next canonical blueprint remains pending architectural direction.
+Blueprint 045 establishes the canonical LearningOS Kernel responsible for execution context, tenant boundaries, policy enforcement, capabilities, module coordination, ecosystem control, security, compatibility, and recovery.
+
+Blueprint 046 establishes the governance control plane through which Project Genesis constitutional authority becomes versioned, explainable, enforceable, appealable, and accountable within the LearningOS runtime. Canonical Blueprint 047 remains pending the next approved architectural direction.
 
 ## Genesis 8.x — Enterprise Ecosystem Era
 

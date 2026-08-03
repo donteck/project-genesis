@@ -63,10 +63,11 @@ These ranges must not be marked as fully documented until each detailed source r
 | 043 | Enterprise Organization Architecture | Complete | [Blueprint 043](../docs/blueprints/043-enterprise-organization-architecture.md) |
 | 044 | Multi-Tenant Deployment Architecture | Complete | [Blueprint 044](../docs/blueprints/044-multi-tenant-deployment-architecture.md) |
 | 045 | LearningOS Kernel Architecture | Complete | [Blueprint 045](../docs/blueprints/045-learningos-kernel-architecture.md) |
+| 046 | Platform Governance & Constitutional Runtime Architecture | Complete | [Blueprint 046](../docs/blueprints/046-platform-governance-and-constitutional-runtime-architecture.md) |
 
-**Architectural progression:** Canonical Blueprints 040–045 are complete.
+**Architectural progression:** Canonical Blueprints 040–046 are complete.
 
-**Next canonical blueprint:** Pending architectural direction.
+**Next canonical blueprint:** Canonical Blueprint 047 — pending the next approved architectural direction.
 
 ## Quality Controls
 
