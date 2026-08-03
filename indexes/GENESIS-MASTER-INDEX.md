@@ -17,6 +17,13 @@ This index is the navigation source for the approved Uwebbz LearningOS architect
 
 The foundation record covers vision and mission, system architecture, database architecture, API architecture, UI/UX, AI engine, Google Drive content architecture, workflow automation, security and multi-tenancy, and the MVP blueprint.
 
+## Canonical Blueprint Architecture
+
+- [Canonical Blueprint Library](../docs/blueprints/README.md)
+- [Canonical Blueprint 040 — Plugin & Extension Architecture](../docs/blueprints/040-plugin-and-extension-architecture.md)
+
+Blueprint 040 begins the Extensibility Layer of LearningOS. Future plugin, marketplace, SDK, integration, and ecosystem blueprints build upon its extension contracts, lifecycle, permissions, sandboxing, compatibility, security, observability, testing, and governance architecture.
+
 ## Genesis 8.x — Enterprise Ecosystem Era
 
 | Milestone | Architecture Record |
