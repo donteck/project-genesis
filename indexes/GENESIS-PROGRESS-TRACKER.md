@@ -65,10 +65,11 @@ These ranges must not be marked as fully documented until each detailed source r
 | 045 | LearningOS Kernel Architecture | Complete | [Blueprint 045](../docs/blueprints/045-learningos-kernel-architecture.md) |
 | 046 | Platform Governance & Constitutional Runtime Architecture | Complete | [Blueprint 046](../docs/blueprints/046-platform-governance-and-constitutional-runtime-architecture.md) |
 | 047 | Institutional Stewardship & Succession Architecture | Complete | [Blueprint 047](../docs/blueprints/047-institutional-stewardship-and-succession-architecture.md) |
+| 048 | Global Federation Architecture | Complete | [Blueprint 048](../docs/blueprints/048-global-federation-architecture.md) |
 
-**Architectural progression:** Canonical Blueprints 040–047 are complete.
+**Architectural progression:** Canonical Blueprints 040–048 are complete.
 
-**Next canonical blueprint:** Canonical Blueprint 048 — pending the next approved architectural direction.
+**Next canonical blueprint:** Canonical Blueprint 049 — pending the next approved architectural direction.
 
 ## Quality Controls
 

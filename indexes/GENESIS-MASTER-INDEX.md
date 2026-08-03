@@ -28,6 +28,7 @@ The foundation record covers vision and mission, system architecture, database a
 - [Canonical Blueprint 045 — LearningOS Kernel Architecture](../docs/blueprints/045-learningos-kernel-architecture.md)
 - [Canonical Blueprint 046 — Platform Governance & Constitutional Runtime Architecture](../docs/blueprints/046-platform-governance-and-constitutional-runtime-architecture.md)
 - [Canonical Blueprint 047 — Institutional Stewardship & Succession Architecture](../docs/blueprints/047-institutional-stewardship-and-succession-architecture.md)
+- [Canonical Blueprint 048 — Global Federation Architecture](../docs/blueprints/048-global-federation-architecture.md)
 
 Blueprint 040 begins the Extensibility Layer of LearningOS. Future plugin, marketplace, SDK, integration, and ecosystem blueprints build upon its extension contracts, lifecycle, permissions, sandboxing, compatibility, security, observability, testing, and governance architecture.
 
@@ -43,7 +44,9 @@ Blueprint 045 establishes the canonical LearningOS Kernel responsible for execut
 
 Blueprint 046 establishes the governance control plane through which Project Genesis constitutional authority becomes versioned, explainable, enforceable, appealable, and accountable within the LearningOS runtime.
 
-Blueprint 047 establishes the institutional stewardship, succession, authority-transfer, knowledge-preservation, asset-custody, emergency-continuity, and generational-governance architecture. Canonical Blueprint 048 remains pending the next approved architectural direction.
+Blueprint 047 establishes the institutional stewardship, succession, authority-transfer, knowledge-preservation, asset-custody, emergency-continuity, and generational-governance architecture.
+
+Blueprint 048 establishes trusted interoperability among sovereign LearningOS deployments, organizations, identities, credentials, content networks, registries, agents, and learning communities. Canonical Blueprint 049 remains pending the next approved architectural direction.
 
 ## Genesis 8.x — Enterprise Ecosystem Era
 

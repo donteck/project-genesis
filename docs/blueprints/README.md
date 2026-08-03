@@ -50,6 +50,7 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 045 | [LearningOS Kernel Architecture](045-learningos-kernel-architecture.md) | August 3, 2026 | Canonical | Define the authoritative platform core for execution context, tenant boundaries, policy enforcement, capabilities, modules, ecosystem control, security, compatibility, and recovery. |
 | 046 | [Platform Governance & Constitutional Runtime Architecture](046-platform-governance-and-constitutional-runtime-architecture.md) | August 3, 2026 | Canonical | Define how Project Genesis authority becomes versioned, explainable, enforceable, appealable, and accountable platform governance above the LearningOS Kernel. |
 | 047 | [Institutional Stewardship & Succession Architecture](047-institutional-stewardship-and-succession-architecture.md) | August 3, 2026 | Canonical | Define stewardship, leadership transition, authority transfer, institutional memory, asset custody, emergency succession, and generational continuity for Project Genesis and LearningOS. |
+| 048 | [Global Federation Architecture](048-global-federation-architecture.md) | August 3, 2026 | Canonical | Define trusted interoperability among sovereign LearningOS deployments, organizations, identities, credentials, content networks, registries, agents, and learning communities. |
 
 ## Current Indexes
 
