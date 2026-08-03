@@ -35,8 +35,11 @@ Each Discovery receives:
 | 006 | [The Knowledge Multiplication Principle](006-the-knowledge-multiplication-principle.md) | August 2, 2026 | Every important Project Genesis idea should be designed to exist in multiple complementary forms. | Discoveries 001, 003, 004, and 005 | Engineering Philosophy; Genesis Evolution Manifesto; Project Genesis Framework | Canonical Blueprints 005, 023, and 030 | Project Genesis must transform important knowledge into forms through which different people can discover, understand, practice, apply, teach, and extend it. |
 | 007 | [The Knowledge Pyramid Principle](007-the-knowledge-pyramid-principle.md) | August 2, 2026 | Human learning develops through Information, Knowledge, Principles, and Wisdom. | Discoveries 001, 003, 005, and 006 | Engineering Philosophy; Genesis Evolution Manifesto; Project Genesis Framework | Canonical Blueprints 001, 018, 023, and 025 | Project Genesis must guide people beyond facts toward understanding, principled decisions, and responsible judgment. |
 | 008 | [The Builder's Principle](008-the-builders-principle.md) | August 2, 2026 | A builder is defined by responsibility for what creation enables, affects, and leaves behind—not by production alone. | Discoveries 003–007 | The Genesis Covenant; The Genesis Declaration; The Constitution of Builders | Canonical Blueprints 006, 007, 008, and 010 | Every contributor must be treated as a steward of purpose, truth, knowledge, people, systems, and future opportunity. |
+| 013 | [The Legacy Principle](013-the-legacy-principle.md) | August 2, 2026 | The highest achievement of an engineering project is its ability to continue creating value beyond its original builders. | Discoveries 001, 003–008 | The Genesis Covenant; The Genesis Declaration; The Constitution of Builders; The Genesis Legacy | Canonical Blueprints 005, 007, 009, 010, 029, and 030 | Project Genesis must engineer for inheritance through documentation, mentorship, recoverability, historical context, and institutional continuity. |
 
 > **Registry note:** Discovery 002 is referenced by the approved Discovery 003 relationship but does not yet have a canonical document in this repository. Its number remains reserved.
+
+> **Sequence note:** Discovery numbers 009–012 remain reserved for their approved canonical records and may be added when their source documents are finalized.
 
 ---
 
@@ -51,3 +54,5 @@ Discovery 006 establishes the multiplication principle through which the knowled
 Discovery 007 establishes the four-level learning model through which those expressions guide people from Information to Knowledge to Principles to Wisdom.
 
 Discovery 008 establishes the Builder's Principle underlying the governing duties of the Constitution of Builders.
+
+Discovery 013 establishes the Legacy Principle: Project Genesis must preserve enough knowledge, context, mentorship, and institutional continuity for value to continue beyond its original creators.
