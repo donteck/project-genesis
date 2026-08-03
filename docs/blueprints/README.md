@@ -39,6 +39,8 @@ The Blueprint Library organizes architectural plans that translate Project Genes
 | 034 | [The Frontend Architecture](034-frontend-architecture.md) | August 2, 2026 | Canonical | Define the complete frontend architecture, design system, component hierarchy, layouts, state, accessibility, responsiveness, performance, and engineering organization for LearningOS. |
 | 035 | [The Backend & Service Architecture](035-backend-and-service-architecture.md) | August 2, 2026 | Canonical | Define backend layers, domain services, use cases, repositories, adapters, modular boundaries, security, observability, and testing for LearningOS. |
 | 036 | [The Database Schema Architecture](036-database-schema-architecture.md) | August 2, 2026 | Canonical | Define relational schema philosophy, domain ownership, constraints, RLS, multi-tenancy, migrations, retention, indexing, auditability, backup, and recovery for LearningOS. |
+| 037 | [API Contracts & Interface Specification](037-api-contracts-and-interface-specification.md) | August 2, 2026 | Canonical | Define API contracts, endpoint organization, versioning, authentication, authorization, responses, errors, pagination, webhooks, SDKs, observability, and lifecycle governance. |
+| 038 | [AI Memory & Context Engineering Architecture](038-ai-memory-and-context-engineering-architecture.md) | August 2, 2026 | Canonical | Define governed AI memory, context retrieval, prioritization, safety, explainability, model independence, privacy, observability, and evaluation for LearningOS. |
 
 ## Current Indexes
 
